@@ -1,1 +1,2 @@
-# 102.1-Disk_Layout_design
+# 💽 LPIC-1 Lab: Disk Layout Design
+
