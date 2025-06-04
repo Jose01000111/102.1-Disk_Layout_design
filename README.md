@@ -6,7 +6,7 @@ In this lab, I designed a disk partitioning layout for a Linux system, tailored 
 ## 🚀 What I Did in This Lab
 I simulated creating and planning a disk layout for a Linux system using fdisk, lsblk, and logical volume tools. I also reviewed architecture-specific boot requirements and explained my design choices.
 
-## Part 1: Allocate Filesystems and Swap to Separate Partitions
+## 1️⃣: Allocate Filesystems and Swap to Separate Partitions
 
 I started by learning how to divide the disk into multiple partitions, assigning directories like /, /boot, /home, and /var to separate filesystems and setting up swap space appropriately.
 
@@ -16,7 +16,7 @@ I started by learning how to divide the disk into multiple partitions, assigning
 
 🔹Format and Mount Partitions
 
-## Part 2: Tailor Layout to Intended System Use: 
+## 2️⃣: Tailor Layout to Intended System Use: 
 
 Next, I adapted the partition scheme based on how the system would be used—for example, increasing /var for a web server or expanding /home for a developer environment.
 
@@ -26,7 +26,7 @@ Next, I adapted the partition scheme based on how the system would be used—for
 
 🔹Minimal System: Single / with fewer partitions for simplicity
 
-## Part 3: Ensure /boot Meets Architecture Requirements: 
+## 3️⃣: Ensure /boot Meets Architecture Requirements: 
 
 I then focused on configuring the /boot partition to meet BIOS and UEFI requirements, including creating an EFI System Partition when needed for modern hardware.
 
@@ -34,7 +34,7 @@ I then focused on configuring the /boot partition to meet BIOS and UEFI requirem
 
 🔹UEFI: Create EFI System Partition
 
-## Part 4: Understand Basic Features of LVM 
+## 4️⃣: Understand Basic Features of LVM 
 
 Finally, I explored Logical Volume Management (LVM), learning how to create physical volumes, volume groups, and logical volumes to make storage more flexible and scalable.
 
