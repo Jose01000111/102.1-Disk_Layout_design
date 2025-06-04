@@ -41,3 +41,6 @@ Finally, I explored Logical Volume Management (LVM), learning how to create phys
 🔹 Initialize LVM Components
 
 🔹 Create and Mount Logical Volumes
+
+## 📚 What I Learned
+👨‍💻 I learned how to design a flexible and efficient disk layout based on the system’s role. I practiced creating partitions manually, managing swap space, and using LVM for flexible storage. I also gained insight into the boot process and EFI partitioning! 🧰🐧
