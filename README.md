@@ -9,6 +9,10 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 [Objective 102.1 Notes](https://1drv.ms/w/c/354f1c8d534fbced/EbMbgOosyTNGqT0F4gN5mQABwJOvi-IWub3HHxZX1hBwUA?e=zGLqhj)
 
+[Objective 102.1 Lab](https://1drv.ms/w/c/354f1c8d534fbced/ERuF45SgDZJLuDj3YtOo67QBysILXQFi-YnuFxlJsUz96Q?e=14RDgm)
+
+---
+
 ## 🚀 What I Did in This Lab
 I simulated creating and planning a disk layout for a Linux system using fdisk, lsblk, and logical volume tools. I also reviewed architecture-specific boot requirements and explained my design choices.
 
