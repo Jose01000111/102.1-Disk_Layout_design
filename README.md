@@ -3,6 +3,8 @@
 ## 📝 Introduction
 In this lab, I designed a disk partitioning layout for a Linux system, tailored to meet different use cases and hardware requirements. I practiced allocating key filesystems to different partitions, understanding swap space, and working with LVM and EFI system partitions.
 
+[Ojective 102.1 ](https://www.lpi.org/our-certifications/exam-101-102-objectives/#102.1_Design_hard_disk_layout)
+
 ## 🚀 What I Did in This Lab
 I simulated creating and planning a disk layout for a Linux system using fdisk, lsblk, and logical volume tools. I also reviewed architecture-specific boot requirements and explained my design choices.
 
